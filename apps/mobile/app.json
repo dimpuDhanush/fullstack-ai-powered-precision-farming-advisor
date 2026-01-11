@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Precision Farming Advisor",
+    "slug": "precision-farming-advisor",
+    "version": "1.0.0",
+    "scheme": "pfa",
+    "orientation": "portrait",
+    "platforms": ["android", "ios"],
+    "assetBundlePatterns": ["**/*"],
+    "newArchEnabled": false
+  }
+}

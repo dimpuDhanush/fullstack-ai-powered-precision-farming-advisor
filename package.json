@@ -1,0 +1,11 @@
+{
+  "name": "precision-farming-mobile",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev:server": "pnpm -C apps/server dev",
+    "dev:mobile": "pnpm -C apps/mobile start",
+    "build:server": "pnpm -C apps/server build",
+    "start:server": "pnpm -C apps/server start"
+  }
+}
